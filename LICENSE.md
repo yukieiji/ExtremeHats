@@ -6,7 +6,7 @@ Copyright (C) 2022 yukieiji https://github.com/yukieiji
 
 ## 利用条件
 ### 0.定義
-「本許諾書」とはExtreme Hat Custom Licence v1.0を言う
+「本許諾書」とはExtreme Hat Custom Licence v1.1を言う
 本許諾書における用語を以下に定義する
 - 「著作権」とは、著作権法単体だけではなく、著作権法に類似または基づく法によって定義されている権利も意味する
 - 「私」とは、「本許諾書」を記載、定義を行っているyukieijiを指します
