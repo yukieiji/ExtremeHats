@@ -1,7 +1,7 @@
 # ExtremeHat
 Extreme RolesのアドオンであるExtreme Skinsのハットデータ管理用リポジトリ<br>
 Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこのリポジトリのデータを使用する場合、このリポジトリ自体のライセンス(使用規約)を読み把握した上で各ハットのライセンス(使用規約、LICENCE.md)に従って下さい<br>
-このリポジトリのライセンスはこちら
+このリポジトリのライセンスは[こちら](https://github.com/yukieiji/ExtremeHats/blob/main/LICENSE.md)
 
 ## 新しいスキンの作り方
 1. ExtremeHatsの下に新しいフォルダを作る(ローマ字推奨、日本語等は使用しない)
