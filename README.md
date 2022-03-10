@@ -4,7 +4,7 @@ Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこの�
 このリポジトリのライセンスは[こちら](https://github.com/yukieiji/ExtremeHats/blob/main/LICENSE.md)
 
 ## 新しいスキンの作り方
-1. ExtremeHatsの下に新しいフォルダを作る(ローマ字推奨、日本語等は使用しない)
+1. ExtremeHatの下に新しいフォルダを作る(ローマ字推奨、日本語等は使用しない)
 2. 以下の名前の画像ファイルを作る、front.png以外は必要に応じて追加して下さい
   - front.png : 正面右向き前のレイヤーの画像ファイル
   - front_flip.png : 正面左向き前のレイヤーの画像ファイル
