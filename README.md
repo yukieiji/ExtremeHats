@@ -1,10 +1,10 @@
 # ExtremeHat
 Extreme RolesのアドオンであるExtreme Skinsのハットデータ管理用リポジトリ<br>
 Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこのリポジトリのデータを使用する場合、このリポジトリ自体のライセンス(使用規約)を読み把握した上で各ハットのライセンス(使用規約、LICENCE.md)に従って下さい<br>
-このリポジトリのライセンスはこちら
+このリポジトリのライセンスは[こちら](https://github.com/yukieiji/ExtremeHats/blob/main/LICENSE.md)
 
 ## 新しいスキンの作り方
-1. ExtremeHatsの下に新しいフォルダを作る(ローマ字推奨、日本語等は使用しない)
+1. ExtremeHatの下に新しいフォルダを作る(ローマ字推奨、日本語等は使用しない)
 2. 以下の名前の画像ファイルを作る、front.png以外は必要に応じて追加して下さい
   - front.png : 正面右向き前のレイヤーの画像ファイル
   - front_flip.png : 正面左向き前のレイヤーの画像ファイル
@@ -29,3 +29,5 @@ Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこの�
   - AuthorとNameは""で囲って下さい
   - AmongUs.exeのあるフォルダのBepInExの下にLogOutput.txtがあります。正しくロードできているとそのログの途中に以下の様な出力が出ているはずです
     - [Info   :Extreme Skins] Skin Loaded:（スキン名）, from:（ロードしているフォルダ）
+
+#### 身内内専用のスキンを追加して遊ぶ場合は[Impostor](https://github.com/Impostor/Impostor)等のカスタムサーバーの使用をおすすめします
