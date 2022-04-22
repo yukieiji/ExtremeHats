@@ -1,24 +1,5 @@
 {
     "data":
-        [
-            "ainured",
-            "ainuredplus",
-            "amatohfusen",
-            "beamhat",
-            "bomb",
-            "censored",
-            "checkers",
-            "gakkoya",
-            "headoncat",
-            "hoodneko",
-            "maq",
-            "minidon",
-            "nekowasacat",
-            "nicolai",
-            "pirohiko",
-            "raimunoah",
-            "sheep",
-            "sirusira"
-        ],
-    "updateComitHash": "7411396ddceb9f8a600579ff366d0987412eb4f0"
+        ["ainured", "ainuredplus", "amatohfusen", "beamhat", "bomb", "censored", "checkers", "gakkoya", "headoncat", "maq", "minidon", "nekowasacat", "nicolai", "pirohiko", "raimunoah", "sheep", "sirusira", "unionjack"],
+    "updateComitHash": "bba65b08ab218e07b3f749397f574534f22da955"
 }
