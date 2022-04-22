@@ -1,0 +1,11 @@
+{
+    "Author": "beamman",
+    "Name": "bmpHat",
+    "FrontFlip": false,
+    "Back": false,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": false,
+    "Shader": false,
+    "comitHash": "aaaaaaaaaaaaaaaa"
+}
