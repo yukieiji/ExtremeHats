@@ -30,6 +30,6 @@ Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこの�
 - エラーが出た場合
   - AuthorとNameは""で囲って下さい
   - AmongUs.exeのあるフォルダのBepInExの下にLogOutput.txtがあります。正しくロードできているとそのログの途中に以下の様な出力が出ているはずです
-    - [Info   :Extreme Skins] Skin Loaded:（スキン名）, from:（ロードしているフォルダ）
+    - ```[Info   :Extreme Skins] Skin Loaded:（スキン名）, from:（ロードしているフォルダ）```
 
 #### 身内内専用のスキンを追加して遊ぶ場合は[Impostor](https://github.com/Impostor/Impostor)等のカスタムサーバーの使用をおすすめします
