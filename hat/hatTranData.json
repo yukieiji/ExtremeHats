@@ -77,5 +77,68 @@
     },
     "4rehe": {
         "11": "4\u30ec\u30fc\u3078T\u30b7\u30e3\u30c4"
+    },
+    "hinaniki": {
+        "11": "\u3072\u306a\u306b\u3044\u4f5c"
+    },
+    "mimikkyu": {
+        "11": "\u30df\u30df\u30c3\u30ad\u30e5"
+    },
+    "upa": {
+        "11": "\u30a6\u30d1\u30fc"
+    },
+    "nitori": {
+        "11": "\u306b\u3068\u308a"
+    },
+    "iemon": {
+        "11": "\u3044\u3048\u3082\u3093"
+    },
+    "late": {
+        "11": "\u30e9\u30c6"
+    },
+    "lateGuard": {
+        "11": "\u5b88\u8b77\u30e9\u30c6"
+    },
+    "mukuro": {
+        "11": "\u865a"
+    },
+    "mizoreHat": {
+        "11": "\u307f\u305e\u308c\u5e3d"
+    },
+    "tacopi": {
+        "11": "\u30bf\u30b3\u30d4\u30fc"
+    },
+    "mizore": {
+        "11": "\u307f\u305e\u308c\u4f5c"
+    },
+    "mizoreSkin": {
+        "11": "\u307f\u305e\u308c"
+    },
+    "mement": {
+        "11": "\u3081\u3081\u3093\u3068\u3082\u308a\u4f5c"
+    },
+    "mementMori": {
+        "11": "\u3081\u3081\u3093\u3068\u3082\u308a"
+    },
+    "omentMori": {
+        "11": "\u304a\u3081\u3093\u3068\u3082\u308a"
+    },
+    "Hachiman": {
+        "11": "\u516b\u5e61\u5bae\u4f5c"
+    },
+    "gunmuss": {
+        "11": "\u30ac\u30f3\u30de\u30b9"
+    },
+    "gunmussRocket": {
+        "11": "\u30ac\u30f3\u30de\u30b9\u30ed\u30b1\u30c3\u30c8"
+    },
+    "hinaLuka": {
+        "11": "\u30d2\u30ca\u30eb\u30ab"
+    },
+    "otowareLalor": {
+        "11": "\u97f3\u5272\u308c\u30ec\u30a4\u30e9\u30fc"
+    },
+    "otowaLalor": {
+        "11": "\u97f3\u5272\u30ec\u30a4\u30e9\u30fc"
     }
 }

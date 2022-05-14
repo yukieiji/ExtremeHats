@@ -1,0 +1,11 @@
+{
+    "Author": "hinaniki",
+    "Name": "mimikkyu",
+    "FrontFlip": false,
+    "Back": false,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": true,
+    "Shader": false,
+    "comitHash": "a0cfd50e3b71a452aee0d9aa8e9bbab28200124a"
+}
