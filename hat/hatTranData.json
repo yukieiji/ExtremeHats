@@ -82,7 +82,7 @@
         "11": "\u3072\u306a\u306b\u3044\u4f5c"
     },
     "mimikkyu": {
-        "11": "\u30df\u30df\u30c3\u30ad\u30e5"
+        "11": "\u5316\u3051\u306e\u76ae"
     },
     "upa": {
         "11": "\u30a6\u30d1\u30fc"
@@ -139,9 +139,15 @@
         "11": "\u30d2\u30ca\u30eb\u30ab"
     },
     "otowareLalor": {
-        "11": "\u97f3\u5272\u308c\u30ec\u30a4\u30e9\u30fc"
+        "11": "\u97f3\u5272\u30ec\u30a4\u30e9\u30fc"
     },
     "otowaLalor": {
-        "11": "\u97f3\u5272\u30ec\u30a4\u30e9\u30fc"
+        "11": "\u30ec\u30a4\u30e9\u30fc"
+    },
+    "gutierrez": {
+        "11": "gutierrez"
+    },
+    "toliki": {
+        "11": "\u30c6\u30a4\u30e9\u30fc"
     }
 }
