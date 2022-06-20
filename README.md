@@ -38,3 +38,4 @@ Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこの�
 - [猫野和錆](https://twitter.com/neko_wasa)様
 - [ピロ彦](https://twitter.com/pirohiko)様
 - [ひなにい](https://twitter.com/__xxhina)様
+- [みやち](https://twitter.com/mii_yachi)様
