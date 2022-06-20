@@ -33,3 +33,8 @@ Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこの�
     - ```[Info   :Extreme Skins] Skin Loaded:（スキン名）, from:（ロードしているフォルダ）```
 
 #### 身内内専用のスキンを追加して遊ぶ場合は[Impostor](https://github.com/Impostor/Impostor)等のカスタムサーバーの使用をおすすめします
+
+## ハットを提供していただいた方々
+- [猫野和錆](https://twitter.com/neko_wasa)様
+- [ピロ彦](https://twitter.com/pirohiko)様
+- [ひなにい](https://twitter.com/__xxhina)様
