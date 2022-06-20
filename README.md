@@ -39,3 +39,4 @@ Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこの�
 - [ピロ彦](https://twitter.com/pirohiko)様
 - [ひなにい](https://twitter.com/__xxhina)様
 - [みやち](https://twitter.com/mii_yachi)様
+- [YJ\*白桜](https://twitter.com/_Sakura_White_)様(ExtremeHatsで使えるようにデータ構造を変更しています(ハットデータがGNU General Public License v3.0ライセンスのため詳細を記載))
