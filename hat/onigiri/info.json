@@ -1,0 +1,11 @@
+{
+    "Author": "YJSiroSakura",
+    "Name": "onigiri",
+    "FrontFlip": false,
+    "Back": false,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": false,
+    "Shader": false,
+    "comitHash": "9cd36ffc9c62004199637ac967785ffdf8ac69d7"
+}

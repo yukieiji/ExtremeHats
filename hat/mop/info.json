@@ -1,0 +1,11 @@
+{
+    "Author": "YJSiroSakura",
+    "Name": "mop",
+    "FrontFlip": false,
+    "Back": false,
+    "BackFlip": false,
+    "Climb": false,
+    "Bound": false,
+    "Shader": true,
+    "comitHash": "9cd36ffc9c62004199637ac967785ffdf8ac69d7"
+}
