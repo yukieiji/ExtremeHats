@@ -1,0 +1,11 @@
+{
+    "Author": "rapu",
+    "Name": "ImpostorFinalform",
+    "FrontFlip": false,
+    "Back": false,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": true,
+    "Shader": false,
+    "comitHash": "ffd8d1a23bdd44363c1e31f64b51b2fe4812b13c"
+}
