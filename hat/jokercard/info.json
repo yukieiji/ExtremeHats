@@ -1,0 +1,11 @@
+{
+    "Author": "YJSiroSakura",
+    "Name": "jokercard",
+    "FrontFlip": false,
+    "Back": false,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": false,
+    "Shader": true,
+    "comitHash": ""
+}
