@@ -2,7 +2,7 @@
     "Author": "nekoWasa",
     "Name": "KindGang",
     "FrontFlip": false,
-    "Back": true,
+    "Back": false,
     "BackFlip": false,
     "Climb": true,
     "Bound": false,
