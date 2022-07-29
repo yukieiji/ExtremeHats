@@ -146,7 +146,6 @@
             "sus",
             "suschiken",
 
-
             "EtATomokaEB",
             "EtAYamatoBeetle",
             "EtAYamatoBeetleBrown",
@@ -159,7 +158,9 @@
 
             "ParasiticWormwood",
             "ImpostorFinalforme",
-            "basicimpostor"
+            "basicimpostor",
+
+            "oyaki"
         ],
     "updateComitHash": "289b635f74b6ac9a095c9853cf8cc856b5e3da40"
 }
