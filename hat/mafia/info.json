@@ -6,6 +6,6 @@
     "BackFlip": false,
     "Climb": true,
     "Bound": false,
-    "Shader": true,
+    "Shader": false,
     "comitHash": "568c96eb20e262fc15f21537daf68a0037b1237a"
 }
