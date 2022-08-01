@@ -476,6 +476,13 @@
         "0": "capsule",
         "11": "\u30ab\u30d7\u30bb\u30eb"
     },
+    "mochimochicrewmate": {
+        "11": "\u3082\u3061\u3082\u3061\u30af\u30eb\u30fc"
+    },
+    "misosiru": {
+        "0": "misosoup",
+        "11": "\u5473\u564c\u6c41"
+    },
     "rapu": {
         "11": "\u3089\u3077\u4f5c"
     },
@@ -494,5 +501,17 @@
     },
     "oyaki": {
         "11": "\u3067\u304b\u3044\u304a\u3084\u304d"
+    },
+    "noraushi": {
+        "11": "\u91ce\u826f\u725b\u4f5c"
+    },
+    "noraushiHat": {
+        "11": "\u91ce\u826f\u725b"
+    },
+    "romuniki": {
+        "11": "ROMniki"
+    },
+    "yuri": {
+        "11": "\u3086\u30fc\u308a"
     }
 }

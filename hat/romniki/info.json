@@ -1,11 +1,11 @@
 {
-    "Author": "oyakimon",
-    "Name": "oyaki",
+    "Author": "noraushi",
+    "Name": "romuniki",
     "FrontFlip": true,
     "Back": false,
     "BackFlip": false,
     "Climb": true,
     "Bound": false,
     "Shader": false,
-    "comitHash": "4b539b576681e4802a6c073ad586a2f0dc0e16f5"
+    "comitHash": ""
 }
