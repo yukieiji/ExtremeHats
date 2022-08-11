@@ -496,11 +496,11 @@
         "0": "BasicImpostor",
         "11": "\u30d9\u30fc\u30b7\u30c3\u30af\u30a4\u30f3\u30dd\u30b9\u30bf\u30fc"
     },
-    "oyakimon": {
-        "11": "\u304a\u3084\u304d\u3082\u3093\u4f5c"
+    "HolyBeast": {
+        "11": "\u8056\u306a\u308b\u7363"
     },
-    "oyaki": {
-        "11": "\u3067\u304b\u3044\u304a\u3084\u304d"
+    "Spinosaurus": {
+        "11": "\u30b9\u30d4\u30ce\u30b5\u30a6\u30eb\u30b9"
     },
     "noraushi": {
         "11": "\u91ce\u826f\u725b\u4f5c"
@@ -513,5 +513,80 @@
     },
     "yuri": {
         "11": "\u3086\u30fc\u308a"
+    },
+    "oyakimon": {
+        "11": "\u304a\u3084\u304d\u3082\u3093\u4f5c"
+    },
+    "oyaki": {
+        "11": "\u3067\u304b\u3044\u304a\u3084\u304d"
+    },
+    "turunoda": {
+        "11": "\u3060\u3058\u3083\u308c\u3082\u3093\u306f\u540a\u308b\u306e\u3060\u3002"
+    },
+    "onore_Impostor": {
+        "11": "\u304a\u306e\u308c\u3000\u30a4\u30f3\u30dd\u30b9\u30bf\u30fc\uff01"
+    },
+    "onore_Jackal": {
+        "11": "\u304a\u306e\u308c\u30b8\u30e3\u30c3\u30ab\u30eb\uff01"
+    },
+    "tinfoil_hat": {
+        "11": "\u601d\u8003\u76d7\u8074\u5bfe\u7b56"
+    },
+    "karappomon": {
+        "11": "\u304b\u3089\u3063\u307d\u3082\u3093\u4f5c"
+    },
+    "bom_maimai": {
+        "11": "\u30d0\u30af\u30c0\u30f3\u30de\u30a4\u30de\u30a4"
+    },
+    "beer_maimai": {
+        "11": "\u30d3\u30fc\u30eb\u30de\u30a4\u30de\u30a4"
+    },
+    "arumikan_turunoda": {
+        "11": "\u3042\u308b\u30df\u30ab\u30f3\uff08\u3064\u308b\u306e\u3060\uff09"
+    },
+    "arumikan_zundamon": {
+        "11": "\u3042\u308b\u30df\u30ab\u30f3\uff08ZUNDAMON\uff09"
+    },
+    "arumikan_zundanrg": {
+        "11": "\u3042\u308b\u30df\u30ab\u30f3\uff08ZUNDANRG\uff09"
+    },
+    "arumikan_grape": {
+        "11": "\u3042\u308b\u30df\u30ab\u30f3\uff08\u30b0\u30ec\u30fc\u30d7\uff09"
+    },
+    "arumikan_tea": {
+        "11": "\u3042\u308b\u30df\u30ab\u30f3\uff08\u304a\u8336\uff09"
+    },
+    "arumikan_zunpis": {
+        "11": "\u3042\u308b\u30df\u30ab\u30f3\uff08\u30ba\u30f3\u30d4\u30b9\uff09"
+    },
+    "oyaki_maimai": {
+        "11": "\u30aa\u30e4\u30ad\u30de\u30a4\u30de\u30a4"
+    },
+    "short_maimai": {
+        "11": "\u3051\u30fc\u304d\u307e\u3044\u307e\u3044"
+    },
+    "maimai_oyaki_reinoshippo": {
+        "11": "\u3057\u3063\u307d\u5165\u308a\u304a\u3084\u304d\u30de\u30a4\u30de\u30a4"
+    },
+    "maimai_oyaki_zunshippo": {
+        "11": "\u305a\u3093\u3057\u3063\u307d\u304a\u3084\u304d\u30de\u30a4\u30de\u30a4"
+    },
+    "maimai_purin": {
+        "11": "\u30d7\u30ea\u30f3\u30de\u30a4\u30de\u30a4"
+    },
+    "mint_maimai": {
+        "11": "\u30c1\u30e7\u30b3\u30df\u30f3\u30c8\u30de\u30a4\u30de\u30a4"
+    },
+    "Takeman": {
+        "11": "\u7af9\u9945\u4f5c"
+    },
+    "T_IronPick": {
+        "11": "IronPick"
+    },
+    "T_Defeat": {
+        "11": "Defeat"
+    },
+    "T_Pickaxe": {
+        "11": "\u30c0\u30a4\u30e4\u30d4\u30c3\u30b1\u30eb"
     }
 }

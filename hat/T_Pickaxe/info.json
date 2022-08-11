@@ -1,0 +1,11 @@
+{
+    "Author": "Takeman",
+    "Name": "T_Pickaxe",
+    "FrontFlip": false,
+    "Back": false,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": false,
+    "Shader": false,
+    "comitHash": ""
+}
