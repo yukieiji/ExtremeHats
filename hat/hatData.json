@@ -161,6 +161,8 @@
             "ParasiticWormwood",
             "ImpostorFinalforme",
             "basicimpostor",
+            "Spinosaurus",
+            "HolyBeast",
 
             "noraushi",
             "romniki",
@@ -184,7 +186,11 @@
             "arumikan_zundamon",
             "arumikan_turunoda",
             "arumikan_tea",
-            "arumikan_grape"
+            "arumikan_grape",
+
+            "T_Defeat",
+            "T_IronPick",
+            "T_Pickaxe"
         ],
     "updateComitHash": "8d31252001a0c484c72060edbdd4315b229754b4"
 }
