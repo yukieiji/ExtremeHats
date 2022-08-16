@@ -26,14 +26,14 @@ Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこの�
 }
 ```
 4. 追加後、ゲームを再起動するとスキンが追加されているはずです
-
-## 他のMODの形式をExHに変換したい
-- TOHtoEXH Converterを使用するとある程度自動変換してくれます
-
 - エラーが出た場合
   - AuthorとNameは""で囲って下さい
   - AmongUs.exeのあるフォルダのBepInExの下にLogOutput.txtがあります。正しくロードできているとそのログの途中に以下の様な出力が出ているはずです
     - ```[Info   :Extreme Skins] Skin Loaded:（スキン名）, from:（ロードしているフォルダ）```
+
+## 他のMODのハットをExtremeHats用に変換したい
+- [TOHtoEXH Converter](https://github.com/yukieiji/ExtremeHats/tree/main/converter)を使用するとある程度自動変換してくれます
+
 
 #### 身内内専用のスキンを追加して遊ぶ場合は[Impostor](https://github.com/Impostor/Impostor)等のカスタムサーバーの使用をおすすめします
 
