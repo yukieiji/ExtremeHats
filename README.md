@@ -27,6 +27,9 @@ Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこの�
 ```
 4. 追加後、ゲームを再起動するとスキンが追加されているはずです
 
+## 他のMODの形式をExHに変換したい
+- TOHtoEXH Converterを使用するとある程度自動変換してくれます
+
 - エラーが出た場合
   - AuthorとNameは""で囲って下さい
   - AmongUs.exeのあるフォルダのBepInExの下にLogOutput.txtがあります。正しくロードできているとそのログの途中に以下の様な出力が出ているはずです
@@ -40,3 +43,9 @@ Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこの�
 - [ひなにい](https://twitter.com/__xxhina)様
 - [みやち](https://twitter.com/mii_yachi)様
 - [YJ\*白桜](https://twitter.com/_Sakura_White_)様(ExtremeHatsで使えるようにデータ構造を変更しています(ハットデータがGNU General Public License v3.0ライセンスのため詳細を記載))
+- アンハッピーセット様
+- アドミン様
+- おやきもん様
+- ラプ様
+- 竹饅様
+- クロドル様
