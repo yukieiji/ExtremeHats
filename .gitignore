@@ -1,1 +1,2 @@
-converter/repo/
+converter/repo/*
+converter/__pycache__
