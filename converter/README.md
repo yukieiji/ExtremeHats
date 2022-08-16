@@ -16,9 +16,15 @@ TheOtherHat形式で保存されているデータを一括でExtremeHatのデ�
       - repo
         - (データフォルダ1)
            - hats
+             - ハット画像1
+             - ハット画像2
+             - ハット画像3....
            - CustomHats.json
          - (データフォルダ2)
-           - hats
+           - hat
+             - ハット画像1
+             - ハット画像2
+             - ハット画像3....
            - CustomHats.json
 5. そこでコマンドプロンプトを開きます
 6. 「pip install -r requirements.txt」と入力してエンター
