@@ -13,19 +13,19 @@ TheOtherHat形式で保存されているデータを一括でExtremeHatのデ�
 4. 「repo」フォルダの中に変換したいTheOtherHat形式で保存されているデータを一括で入れて下さい(ない場合は作って下さい)
    - 以下のようなフォルダ形式になっていればOKです
      - converter
-      - repo
-        - (データフォルダ1)
-           - hats
-             - ハット画像1
-             - ハット画像2
-             - ハット画像3....
-           - CustomHats.json
-         - (データフォルダ2)
-           - hat
-             - ハット画像1
-             - ハット画像2
-             - ハット画像3....
-           - CustomHats.json
+       - repo
+         - (データフォルダ1)
+            - hats
+              - ハット画像1
+              - ハット画像2
+              - ハット画像3....
+            - CustomHats.json
+          - (データフォルダ2)
+            - hat
+              - ハット画像1
+              - ハット画像2
+              - ハット画像3....
+            - CustomHats.json
 5. そこでコマンドプロンプトを開きます
 6. 「pip install -r requirements.txt」と入力してエンター
 7. 「python convert.py」と入力してエンター
