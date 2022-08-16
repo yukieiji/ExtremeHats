@@ -28,7 +28,6 @@ class ExHDataConverter:
 
     def __init__(
         self,
-        repo : str,
         author : str,
         hat_name : str,
         bound : bool,
@@ -40,7 +39,6 @@ class ExHDataConverter:
         back_flip_img_name : str = "",
         climb_img_name : str = ""):
 
-        self.__repo : str = repo
         self.__author : str = self.__clean(author)
         self.__hat_name : str = self.__clean(hat_name)
 
@@ -77,9 +75,11 @@ class ExHDataConverter:
 
         return info
 
-    def convert(self, path : str) -> None:
+    def convert(self, path : str, prefix : str = "") -> None:
 
-        copy_folder = os.path.join(path, f'{self.__repo}__{self.__hat_name}')
+        add_prefix = '' if prefix == '' else f'{prefix}__'
+
+        copy_folder = os.path.join(path, f'{add_prefix}{self.__hat_name}')
 
         if os.path.exists(copy_folder):
             shutil.rmtree(copy_folder)

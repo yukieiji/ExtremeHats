@@ -48,13 +48,13 @@ def main() -> None:
 
     for repo in repos:
 
-        print(f'Repository:{repo}  Convert Start!!!!')
+        print(f'Repository:{repo}  Converting Start!!!!')
 
         data_converter = get_exh_dataconverter(
             os.path.join(str(cur_folder_path), WORKING_FOLDER, repo))
         for (converter, name, author) in data_converter:
 
-            print(f'Converting....     SkinCreater:{author}  SkinName:{name}')
+            print(f'Converting Now!!....  SkinCreater:{author}  SkinName:{name}')
 
             trans_data = pd.concat([trans_data, pd.DataFrame([dict(zip(TRANS_COLUM, create_data(converter.get_hat_name(), name)))])], ignore_index=True)
 
@@ -75,7 +75,7 @@ def main() -> None:
                         pd.DataFrame([dict(zip(TRANS_COLUM, create_data(converter.get_author_name(), author)))])
                     ],
                     ignore_index=True)
-            converter.convert(export_path)
+            converter.convert(export_path, repo)
 
     trans_data = trans_data.rename(columns={TRANS_COLUM[0]:''})
     with pd.ExcelWriter(tran_excel, engine="openpyxl", mode="w") as writer:

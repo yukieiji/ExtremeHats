@@ -34,7 +34,6 @@ def get_exh_dataconverter(repo : str) -> List[Tuple[ExHDataConverter, str, str]]
             result.append(
                 (
                     ExHDataConverter(
-                        repo,
                         hat[HAT_AUTHOR_KEY],
                         hat[HAT_NAME_KEY],
                         HAT_BOUNCE_KEY in hat,
