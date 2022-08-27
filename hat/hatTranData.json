@@ -601,5 +601,17 @@
     },
     "T_Pickaxe": {
         "11": "\u30c0\u30a4\u30e4\u30d4\u30c3\u30b1\u30eb"
+    },
+    "Nyayuta": {
+        "11": "Nyayuta"
+    },
+    "trickAndTreat": {
+        "11": "\u30c8\u30ea\u30c3\u30af\uff06\u30c8\u30ea\u30fc\u30c8"
+    },
+    "meronpan": {
+        "11": "\u30e1\u30ed\u30f3\u30d1\u30f3"
+    },
+    "gunman": {
+        "11": "\u30ac\u30f3\u30de\u30f3"
     }
 }

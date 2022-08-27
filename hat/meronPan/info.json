@@ -1,0 +1,10 @@
+{
+    "Author":"Nyayuta",
+    "Name":"meronpan",
+    "FrontFlip": false,
+    "Back": false,
+    "BackFlip": false,
+    "Climb": false,
+    "Bound": false,
+    "Shader": true
+}
