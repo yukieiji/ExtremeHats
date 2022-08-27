@@ -1,11 +1,11 @@
 {
     "Author": "YJSiroSakura",
-    "Name": "jevil",
+    "Name": "SakuraWhiteBlack",
     "FrontFlip": false,
     "Back": false,
     "BackFlip": false,
     "Climb": true,
     "Bound": false,
-    "Shader": false,
-    "comitHash": "f8adcf04aee0aba48a558f9fd6487fa8e03a5ca2"
+    "Shader": true,
+    "comitHash": ""
 }

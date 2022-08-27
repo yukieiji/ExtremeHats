@@ -444,6 +444,15 @@
     "suschiken": {
         "11": "\u30c1\u30ad\u30f31\u3064"
     },
+    "SakuraWhite": {
+        "11": "\u767d\u685c"
+    },
+    "SakuraBlack": {
+        "11": "\u9ed2\u685c"
+    },
+    "SakuraWhiteBlack": {
+        "11": "\u767d\u9ed2\u685c"
+    },
     "itow": {
         "11": "\u3044\u3068\u3046\u4f5c"
     },
@@ -501,6 +510,10 @@
     },
     "Spinosaurus": {
         "11": "\u30b9\u30d4\u30ce\u30b5\u30a6\u30eb\u30b9"
+    },
+    "Humanoid": {
+        "0": "Humanoid",
+        "11": "\u4eba\u578b"
     },
     "noraushi": {
         "11": "\u91ce\u826f\u725b\u4f5c"
