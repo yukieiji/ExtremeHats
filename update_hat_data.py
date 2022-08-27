@@ -4,10 +4,12 @@ from openpyxl import load_workbook
 
 WORKING_DIR = os.path.dirname(os.path.realpath(__file__))
 
+HAT_DATA_JSON = 'hatData.json'
+HAT_TRANS_DATA_JSON = 'hatTranData.json'
 HAT_IN_FILE = os.path.join(WORKING_DIR, 'HatTransData.xlsx')
-HAT_OUT_FILE = os.path.join(WORKING_DIR, 'hat', 'hatTranData.json')
+HAT_OUT_FILE = os.path.join(WORKING_DIR, 'hat', HAT_TRANS_DATA_JSON)
 HAT_FOLDER = os.path.join(WORKING_DIR, 'hat')
-HAT_DATA_FILE = os.path.join(WORKING_DIR, 'hat', 'hatData.json')
+HAT_DATA_FILE = os.path.join(WORKING_DIR, 'hat', HAT_DATA_JSON)
 
 HAT_DATA_DATA_KEY = 'data'
 HAT_DATA_UPDATE_COMIT_KEY = 'updateComitHash'
@@ -45,6 +47,9 @@ def string_to_json(filename, outputFile) -> None:
 def update_hat_data():
 
   hats = os.listdir(HAT_FOLDER)
+
+  hats.remove(HAT_DATA_JSON)
+  hats.remove(HAT_TRANS_DATA_JSON)
 
   with open(os.path.join(HAT_DATA_FILE), mode='w') as hat_json:
     json.dump(
