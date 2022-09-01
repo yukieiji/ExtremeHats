@@ -6,7 +6,7 @@ TheOtherHat形式で保存されているデータを一括でExtremeHatのデ�
 ## 使い方
 1. Pythonをインストールします(Anaconda、WinPythonなんでも可)
 2. このリポジトリ全体をダウンロードして展開します
-   1. https://github.com/yukieiji/ExtremeHats　を開き
+   1. まずは[リポジトリ](https://github.com/yukieiji/ExtremeHats)を開き
    2. 緑色の「Code」をクリック
    3. 「Download ZIP」をクリックでダウンロードできます
 3. 上で展開したフォルダからこのフォルダ(converterフォルダ)を開きます
