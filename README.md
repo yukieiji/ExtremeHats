@@ -49,3 +49,4 @@ Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこの�
 - ラプ様
 - 竹饅様
 - クロドル様
+- Nyayuta様
