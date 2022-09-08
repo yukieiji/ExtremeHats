@@ -545,6 +545,9 @@
     "tinfoil_hat": {
         "11": "\u601d\u8003\u76d7\u8074\u5bfe\u7b56"
     },
+    "oyaki_mini": {
+        "11": "\u30df\u30cb\u304a\u3084\u304d"
+    },
     "karappomon": {
         "11": "\u304b\u3089\u3063\u307d\u3082\u3093\u4f5c"
     },
@@ -613,5 +616,44 @@
     },
     "gunman": {
         "11": "\u30ac\u30f3\u30de\u30f3"
+    },
+    "Yu": {
+        "11": "Yu\u4f5c"
+    },
+    "AibayashiMizuki": {
+        "11": "\u85cd\u6797\u745e\u5e0c"
+    },
+    "AzaminoHinata": {
+        "11": "\u8387\u91ce\u30d2\u30ca\u30bf"
+    },
+    "CITYHATANUKI": {
+        "11": "\u30b7\u30c6\u30a3\u6d3e\u305f\u306c\u304d"
+    },
+    "KatagiriKonsuke": {
+        "11": "\u7247\u6850\u7d3a\u4ecb"
+    },
+    "KawarabeKumaji": {
+        "11": "\u5ddd\u539f\u8fba\u718a\u5c13"
+    },
+    "mutari": {
+        "11": "\u3080\u305f\u30ea"
+    },
+    "NekoNoKnmichi": {
+        "11": "\u732b\u306e\u5c0f\u9053"
+    },
+    "nekomatamasao": {
+        "11": "\u732b\u53c9\u307e\u3055\u304a"
+    },
+    "ShimizuAlm": {
+        "11": "\u679d\u6c34\u30a2\u30eb\u30e0"
+    },
+    "YuHat": {
+        "11": "Yu"
+    },
+    "YukitoFuyumori": {
+        "11": "\u51ac\u68ee\u3086\u304d\u3068"
+    },
+    "YukizukiNoir": {
+        "11": "\u96ea\u6708\u30ce\u30a2"
     }
 }
