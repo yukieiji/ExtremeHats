@@ -1,7 +1,7 @@
 {
     "Author": "Yu",
     "Name": "NekoNoKnmichi",
-    "FrontFlip": true,
+    "FrontFlip": false,
     "Back": false,
     "BackFlip": false,
     "Climb": false,
