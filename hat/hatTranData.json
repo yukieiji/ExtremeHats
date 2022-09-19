@@ -453,6 +453,15 @@
     "SakuraWhiteBlack": {
         "11": "\u767d\u9ed2\u685c"
     },
+    "Arrow": {
+        "11": "\u77e2\u5370"
+    },
+    "OldGlass": {
+        "11": "\u56db\u89d2\u3044\u9854"
+    },
+    "Mystery": {
+        "11": "\u8b0e\u306e\u5b58\u5728"
+    },
     "itow": {
         "11": "\u3044\u3068\u3046\u4f5c"
     },
@@ -491,6 +500,18 @@
     "misosiru": {
         "0": "misosoup",
         "11": "\u5473\u564c\u6c41"
+    },
+    "fire": {
+        "11": "\u706b\u4e8b"
+    },
+    "bigcolorcone": {
+        "11": "\u5de8\u5927\u30ab\u30e9\u30fc\u30b3\u30fc\u30f3"
+    },
+    "genocide": {
+        "11": "\u30b8\u30a7\u30ce\u30b5\u30a4\u30c9"
+    },
+    "ice": {
+        "11": "\u30a2\u30a4\u30b9"
     },
     "rapu": {
         "11": "\u3089\u3077\u4f5c"

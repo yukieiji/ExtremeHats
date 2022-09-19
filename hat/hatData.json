@@ -15,6 +15,7 @@
     "ankomon",
     "aoi",
     "Armachan",
+    "Arrow",
     "arumikan_grape",
     "arumikan_tea",
     "arumikan_turunoda",
@@ -26,6 +27,7 @@
     "basicimpostor",
     "beamhat",
     "beer_maimai",
+    "bigcolorcone",
     "blackknight",
     "bomb",
     "bom_maimai",
@@ -45,8 +47,10 @@
     "EtAYamatoBeetle",
     "EtAYamatoBeetleBrown",
     "eyemask",
+    "fire",
     "flower",
     "gakkoya",
+    "genocide",
     "gomibako",
     "GoodToBeAlive",
     "gunman",
@@ -63,6 +67,7 @@
     "Humanoid",
     "hydration",
     "IA",
+    "ice",
     "iemon",
     "itako",
     "jevil",
@@ -103,6 +108,7 @@
     "mukuro",
     "mutari",
     "myon",
+    "Mystery",
     "NAKO",
     "nekomatamasao",
     "NekoNoKnmichi",
@@ -113,6 +119,7 @@
     "nobaman",
     "noraushi",
     "o2",
+    "OldGlass",
     "omentMori",
     "ONE",
     "onigiri",
@@ -196,5 +203,5 @@
     "zundamon",
     "zunko"
   ],
-  "updateComitHash": "361f77ab564695cf52fdae8108e53c8240944932"
+  "updateComitHash": ""
 }

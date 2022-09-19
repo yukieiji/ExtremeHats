@@ -1,0 +1,11 @@
+{
+    "Author": "unhappyset",
+    "Name": "ice",
+    "FrontFlip": false,
+    "Back": false,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": false,
+    "Shader":false,
+    "comitHash": "23e4a2a1ff0352f7b1e008f1433c7dff3aff2ff5"
+}
