@@ -50,7 +50,7 @@
     "fire",
     "flower",
     "gakkoya",
-    "genocide",
+    "genocide_fix",
     "gomibako",
     "GoodToBeAlive",
     "gunman",
@@ -203,5 +203,5 @@
     "zundamon",
     "zunko"
   ],
-  "updateComitHash": "6c74968af42b9bab9f464d6c18d66d433032014e"
+  "updateComitHash": ""
 }
