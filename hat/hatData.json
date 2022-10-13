@@ -75,6 +75,7 @@
     "ice",
     "iemon",
     "itako",
+    "iva",
     "jevil",
     "jokercard",
     "KANATA",
@@ -113,6 +114,8 @@
     "mizore",
     "mizoreHat",
     "mochimochicrewmate",
+    "moon_big",
+    "moon_mini",
     "mop",
     "mukuro",
     "mutari",
@@ -219,5 +222,5 @@
     "zundamon",
     "zunko"
   ],
-  "updateComitHash": "f33500c4443fea007445f47fafaeeaae0c197791"
+  "updateComitHash": ""
 }

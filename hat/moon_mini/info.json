@@ -1,0 +1,11 @@
+{
+    "Author": "oyakimon",
+    "Name": "mini_moon",
+    "FrontFlip": true,
+    "Back": false,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": false,
+    "Shader": false,
+    "comitHash": "ab68362d4caadb48c6d7629bed477aef333076e1"
+}

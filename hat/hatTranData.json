@@ -596,6 +596,9 @@
     "yuri": {
         "11": "\u3086\u30fc\u308a"
     },
+    "iva": {
+        "11": "iVa"
+    },
     "oyakimon": {
         "11": "\u304a\u3084\u304d\u3082\u3093\u4f5c"
     },
@@ -661,6 +664,12 @@
     },
     "mint_maimai": {
         "11": "\u30c1\u30e7\u30b3\u30df\u30f3\u30c8\u30de\u30a4\u30de\u30a4"
+    },
+    "big_moon": {
+        "11": "\u6708\u304c\u7dba\u9e97\u3067\u3059\u306d"
+    },
+    "mini_moon": {
+        "11": "\u6708\u306f\u51fa\u3066\u3044\u308b\u304b\uff1f"
     },
     "Takeman": {
         "11": "\u7af9\u9945\u4f5c"
