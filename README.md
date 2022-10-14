@@ -16,12 +16,12 @@ Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこの�
 {
     "Author": , #製作者名、ローマ字スネークケースで記入、例"yukiEiji"
     "Name": , #スキンの名、ローマ字スネークケースで記入、例"overLoading"
-    "FrontFlip": , #True(ある)かFalse(ない)か
-    "Back": , #True(ある)かFalse(ない)か
-    "BackFlip": , #True(ある)かFalse(ない)か
-    "Climb": , #True(ある)かFalse(ない)か
-    "Bound": , #True(ある)かFalse(ない)か
-    "Shader": , #これがTrue(オン)の時、一部の色が体の色とシンクロします。シンクロしてほしくない場合はFalse(オフ)に
+    "FrontFlip": , #true(ある)かfalse(ない)か
+    "Back": , #true(ある)かfalse(ない)か
+    "BackFlip": , #true(ある)かfalse(ない)か
+    "Climb": , #true(ある)かfalse(ない)か
+    "Bound": , #true(ある)かfalse(ない)か
+    "Shader": , #これがtrue(オン)の時、一部の色が体の色とシンクロします。シンクロしてほしくない場合はfalse(オフ)に
     "comitHash": "" # 記載しなくて大丈夫
 }
 ```
