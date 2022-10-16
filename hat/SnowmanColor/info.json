@@ -1,0 +1,11 @@
+{
+    "Author": "ウゾーム象",
+    "Name": "雪だるま(カラー対応)",
+    "FrontFlip": false,
+    "Back": false,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": true,
+    "Shader": true,
+    "comitHash": ""
+}

@@ -1,0 +1,11 @@
+{
+    "Author": "ウゾーム象",
+    "Name": "カボチャ頭",
+    "FrontFlip": false,
+    "Back": false,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": true,
+    "Shader": false,
+    "comitHash": ""
+}
