@@ -733,5 +733,50 @@
     },
     "YukizukiNoir": {
         "11": "\u96ea\u6708\u30ce\u30a2"
+    },
+    "UzomuZo": {
+        "11": "\u30a6\u30be\u30fc\u30e0\u8c61\u4f5c"
+    },
+    "EyeLight_Blue": {
+        "11": "\u30a2\u30a4\u30e9\u30a4\u30c8(\u9752)"
+    },
+    "EyeLight_Green": {
+        "11": "\u30a2\u30a4\u30e9\u30a4\u30c8(\u7dd1)"
+    },
+    "EyeLight_Red": {
+        "11": "\u30a2\u30a4\u30e9\u30a4\u30c8(\u8d64)"
+    },
+    "EyeLight_Yellow": {
+        "11": "\u30a2\u30a4\u30e9\u30a4\u30c8(\u9ec4)"
+    },
+    "Mono_EyeLight_Blue": {
+        "11": "\u30a2\u30a4\u30e9\u30a4\u30c8(\u9752\u30fb\u5358)"
+    },
+    "Mono_EyeLight_Green": {
+        "11": "\u30a2\u30a4\u30e9\u30a4\u30c8(\u7dd1\u30fb\u5358)"
+    },
+    "Mono_EyeLight_Red": {
+        "11": "\u30a2\u30a4\u30e9\u30a4\u30c8(\u8d64\u30fb\u5358)"
+    },
+    "Mono_EyeLight_Yellow": {
+        "11": "\u30a2\u30a4\u30e9\u30a4\u30c8(\u9ec4\u30fb\u5358)"
+    },
+    "Halo": {
+        "11": "\u5f8c\u5149"
+    },
+    "JackOHead": {
+        "11": "\u30ab\u30dc\u30c1\u30e3\u982d"
+    },
+    "Long-tailed_Tit": {
+        "11": "\u30b7\u30de\u30a8\u30ca\u30ac"
+    },
+    "Sparrow": {
+        "11": "\u30b9\u30ba\u30e1"
+    },
+    "Snowman": {
+        "11": "\u96ea\u3060\u308b\u307e"
+    },
+    "SnowmanColor": {
+        "11": "\u96ea\u3060\u308b\u307e(\u30ab\u30e9\u30fc\u5bfe\u5fdc)"
     }
 }
