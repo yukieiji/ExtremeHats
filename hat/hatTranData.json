@@ -609,7 +609,7 @@
         "11": "\u3060\u3058\u3083\u308c\u3082\u3093\u306f\u540a\u308b\u306e\u3060\u3002"
     },
     "onore_Impostor": {
-        "11": "\u304a\u306e\u308c\u3000\u30a4\u30f3\u30dd\u30b9\u30bf\u30fc\uff01"
+        "11": "\u304a\u306e\u308c\u30a4\u30f3\u30dd\u30b9\u30bf\u30fc\uff01"
     },
     "onore_Jackal": {
         "11": "\u304a\u306e\u308c\u30b8\u30e3\u30c3\u30ab\u30eb\uff01"
@@ -665,10 +665,10 @@
     "mint_maimai": {
         "11": "\u30c1\u30e7\u30b3\u30df\u30f3\u30c8\u30de\u30a4\u30de\u30a4"
     },
-    "big_moon": {
+    "moon_big": {
         "11": "\u6708\u304c\u7dba\u9e97\u3067\u3059\u306d"
     },
-    "mini_moon": {
+    "moon_mini": {
         "11": "\u6708\u306f\u51fa\u3066\u3044\u308b\u304b\uff1f"
     },
     "Takeman": {
