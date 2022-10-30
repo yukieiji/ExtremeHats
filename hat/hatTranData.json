@@ -360,6 +360,54 @@
     "Yukarisizuku": {
         "11": "\u7d50\u6708\u3086\u304b\u308a \u96eb"
     },
+    "AkaneGo": {
+        "11": "\u7434\u8449\u831c\uff08\u30b4\u30b7\u30c3\u30af\uff09"
+    },
+    "AkaneSe": {
+        "11": "\u7434\u8449\u831c\uff08Seiren Voice\uff09"
+    },
+    "Akari2": {
+        "11": "\u7d32\u661f\u3042\u304b\u308a\uff08\u30b8\u30e3\u30b1\u30c3\u30c8\u7121\u3057\uff09"
+    },
+    "Ankomon2": {
+        "11": "\u3042\u3093\u3053\u3082\u3093\uff08\u5996\u7cbe\uff09"
+    },
+    "AoiGo": {
+        "11": "\u7434\u8449\u8475\uff08\u30b4\u30b7\u30c3\u30af\uff09"
+    },
+    "AoiSe": {
+        "11": "\u7434\u8449\u8475\uff08Seiren Voice\uff09"
+    },
+    "Mochiko": {
+        "11": "\u3082\u3061\u5b50"
+    },
+    "YukariO": {
+        "11": "\u7d50\u6708\u3086\u304b\u308a\u306e\u53cc\u5b50\u306e\u5f1f"
+    },
+    "Yuzuru2": {
+        "11": "\u4f0a\u7e54\u5f13\u9db4\uff08\u30b7\u30e3\u30c4\u3042\u308a\uff09"
+    },
+    "YuzuruSe": {
+        "11": "\u4f0a\u7e54\u5f13\u9db4\uff08Seiren Voice\uff09"
+    },
+    "Zundamon2": {
+        "11": "\u305a\u3093\u3060\u3082\u3093\uff08\u5996\u7cbe\uff09"
+    },
+    "ZunkoZ": {
+        "11": "\u6771\u5317\u305a\u3093\u3053\uff08\u305a\u3093\u3060\u3082\u3093\uff09"
+    },
+    "ZZKashiwa": {
+        "11": "\u304b\u3057\u308f\u3082\u3061"
+    },
+    "ZZOhagia": {
+        "11": "\u304a\u306f\u304e\uff08\u3042\u3093\u3053\uff09"
+    },
+    "ZZOhagik": {
+        "11": "\u304a\u306f\u304e\uff08\u304d\u306a\u3053\uff09"
+    },
+    "ZZZunda": {
+        "11": "\u305a\u3093\u3060\u3082\u3061"
+    },
     "YJSiroSakura": {
         "11": "YJ*\u767d\u685c\u4f5c"
     },
@@ -509,41 +557,6 @@
     },
     "Mystery": {
         "11": "\u8b0e\u306e\u5b58\u5728"
-    },
-    "itow": {
-        "11": "\u3044\u3068\u3046\u4f5c"
-    },
-    "tomokaEB": {
-        "11": "\u30c8\u30e2\u30abEB"
-    },
-    "yamatoBeetle": {
-        "11": "\u30ab\u30d6\u30c8\u30e0\u30b7"
-    },
-    "yamatoBeetleBrown": {
-        "11": "\u30ab\u30d6\u30c8\u30e0\u30b7_\u8336"
-    },
-    "Kurodoru": {
-        "11": "\u30af\u30ed\u30c9\u30eb\u4f5c"
-    },
-    "zombie": {
-        "11": "\u30be\u30f3\u30d3"
-    },
-    "GoodToBeAlive": {
-        "11": "Good To Be Alive"
-    },
-    "unhappyset": {
-        "11": "\u30a2\u30f3\u30cf\u30c3\u30d4\u30fc\u30bb\u30c3\u30c8\u4f5c"
-    },
-    "taskbar": {
-        "0": "taskbar",
-        "11": "\u30bf\u30b9\u30af\u30d0\u30fc"
-    },
-    "babble": {
-        "0": "capsule",
-        "11": "\u30ab\u30d7\u30bb\u30eb"
-    },
-    "mochimochicrewmate": {
-        "11": "\u3082\u3061\u3082\u3061\u30af\u30eb\u30fc"
     },
     "misosiru": {
         "0": "misosoup",
