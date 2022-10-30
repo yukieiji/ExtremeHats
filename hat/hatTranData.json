@@ -558,6 +558,41 @@
     "Mystery": {
         "11": "\u8b0e\u306e\u5b58\u5728"
     },
+    "itow": {
+        "11": "\u3044\u3068\u3046\u4f5c"
+    },
+    "tomokaEB": {
+        "11": "\u30c8\u30e2\u30abEB"
+    },
+    "yamatoBeetle": {
+        "11": "\u30ab\u30d6\u30c8\u30e0\u30b7"
+    },
+    "yamatoBeetleBrown": {
+        "11": "\u30ab\u30d6\u30c8\u30e0\u30b7_\u8336"
+    },
+    "Kurodoru": {
+        "11": "\u30af\u30ed\u30c9\u30eb\u4f5c"
+    },
+    "zombie": {
+        "11": "\u30be\u30f3\u30d3"
+    },
+    "GoodToBeAlive": {
+        "11": "Good To Be Alive"
+    },
+    "unhappyset": {
+        "11": "\u30a2\u30f3\u30cf\u30c3\u30d4\u30fc\u30bb\u30c3\u30c8\u4f5c"
+    },
+    "taskbar": {
+        "0": "taskbar",
+        "11": "\u30bf\u30b9\u30af\u30d0\u30fc"
+    },
+    "babble": {
+        "0": "capsule",
+        "11": "\u30ab\u30d7\u30bb\u30eb"
+    },
+    "mochimochicrewmate": {
+        "11": "\u3082\u3061\u3082\u3061\u30af\u30eb\u30fc"
+    },
     "misosiru": {
         "0": "misosoup",
         "11": "\u5473\u564c\u6c41"
