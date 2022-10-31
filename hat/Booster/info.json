@@ -1,0 +1,11 @@
+{
+    "Author": "UzomuZo",
+    "Name": "Booster",
+    "FrontFlip": false,
+    "Back": true,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": false,
+    "Shader": false,
+    "comitHash": ""
+}
