@@ -188,6 +188,7 @@
     "sasara2",
     "satori",
     "seika",
+    "SelfControl",
     "sheep",
     "ShimizuAlm",
     "short_maimai",
@@ -211,6 +212,7 @@
     "taskbar",
     "tellmebeat",
     "thinking",
+    "thumbtack",
     "tinfoil_hat",
     "tobari",
     "toliki",
@@ -235,6 +237,7 @@
     "utyuJin",
     "WorkHelmetYellow",
     "yj",
+    "YJ_Eraser",
     "yojo",
     "YuHat",
     "yukari",
@@ -257,5 +260,5 @@
     "ZZohagik",
     "ZZzunda"
   ],
-  "updateComitHash": "bb9811592d534f66243805eb1467cfd2bc226845"
+  "updateComitHash": ""
 }
