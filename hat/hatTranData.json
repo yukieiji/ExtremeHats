@@ -826,5 +826,20 @@
     },
     "SnowmanColor": {
         "11": "\u96ea\u3060\u308b\u307e(\u30ab\u30e9\u30fc\u5bfe\u5fdc)"
+    },
+    "Booster": {
+        "11": "\u30d6\u30fc\u30b9\u30bf\u30fc"
+    },
+    "Faceless": {
+        "11": "\u306e\u3063\u307a\u3089\u307c\u3046"
+    },
+    "Hands_of_the_Dead": {
+        "11": "\u4ea1\u8005\u306e\u624b"
+    },
+    "I_am_Werewolf": {
+        "11": "\u6211\u306f\u4eba\u72fc\u306a\u308a"
+    },
+    "WorkHelmet_Yellow": {
+        "11": "\u30d8\u30eb\u30e1\u30c3\u30c8(\u9ec4)"
     }
 }

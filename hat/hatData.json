@@ -41,6 +41,7 @@
     "blackknight",
     "bomb",
     "bom_maimai",
+    "Booster",
     "breadeat",
     "Butasan",
     "capsule",
@@ -62,6 +63,7 @@
     "EyeLightRed",
     "EyeLightYellow",
     "eyemask",
+    "Faceless",
     "fire",
     "flower",
     "gakkoya",
@@ -74,6 +76,7 @@
     "gutierrez",
     "Halo",
     "handmike",
+    "HandsOfTheDead",
     "hatmuff",
     "hau",
     "headoncat",
@@ -87,6 +90,7 @@
     "iemon",
     "itako",
     "iva",
+    "I_am_Werewolf",
     "JackOHead",
     "jevil",
     "jokercard",
@@ -229,6 +233,7 @@
     "upa",
     "usbHacker",
     "utyuJin",
+    "WorkHelmetYellow",
     "yj",
     "yojo",
     "YuHat",
@@ -252,5 +257,5 @@
     "ZZohagik",
     "ZZzunda"
   ],
-  "updateComitHash": "b04e5be3e7704e14a60e8dc4602deead573b7837"
+  "updateComitHash": "bb9811592d534f66243805eb1467cfd2bc226845"
 }
