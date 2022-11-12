@@ -16,12 +16,12 @@ def get_hat_dir_name(change_files : List[str]) -> List[str]:
 
   for path in change_files:
 
-    check_path = Path(path)
+    check_path = Path(path).resolve()
     parent = check_path.parent
-
-    is_hat_dir = parent.is_dir()
+    if not parent.is_dir():
+      continue
     hat_name = parent.parts[-1]
-    if is_hat_dir and not (hat_name in hat_dir):
+    if not (hat_name in hat_dir):
       hat_dir.append(hat_name)
 
   return hat_dir
