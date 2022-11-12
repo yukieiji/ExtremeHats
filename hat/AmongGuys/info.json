@@ -1,11 +1,11 @@
 {
-    "Author": "Composter",
-    "Name": "among_guys",
-    "FrontFlip": false,
-    "Back": true,
-    "BackFlip": false,
-    "Climb": false,
-    "Bound": false,
-    "Shader": true,
-    "comitHash": ""
+  "Author": "Composter",
+  "Name": "among_guys",
+  "FrontFlip": false,
+  "Back": true,
+  "BackFlip": false,
+  "Climb": false,
+  "Bound": false,
+  "Shader": true,
+  "comitHash": "35dc76cc864edd0bbe59bf08e4fab547a2041be0"
 }

@@ -1,11 +1,11 @@
 {
-    "Author": "tukihatu",
-    "Name": "milk_big",
-    "FrontFlip": false,
-    "Back": false,
-    "BackFlip": false,
-    "Climb": true,
-    "Bound": false,
-    "Shader": false,
-    "comitHash": ""
+  "Author": "tukihatu",
+  "Name": "milk_big",
+  "FrontFlip": false,
+  "Back": false,
+  "BackFlip": false,
+  "Climb": true,
+  "Bound": false,
+  "Shader": false,
+  "comitHash": "35dc76cc864edd0bbe59bf08e4fab547a2041be0"
 }
