@@ -1,0 +1,11 @@
+{
+    "Author": "Composter",
+    "Name": "Miso_soup",
+    "FrontFlip": false,
+    "Back": true,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": false,
+    "Shader": false,
+    "comitHash": ""
+}

@@ -1,0 +1,11 @@
+{
+    "Author": "YJSiroSakura",
+    "Name": "SuperBurger",
+    "FrontFlip": false,
+    "Back": false,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": false,
+    "Shader": false,
+    "comitHash": ""
+}

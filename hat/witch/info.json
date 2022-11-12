@@ -1,0 +1,11 @@
+{
+    "Author": "Composter",
+    "Name": "witch",
+    "FrontFlip": false,
+    "Back": true,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": false,
+    "Shader": true,
+    "comitHash": ""
+}
