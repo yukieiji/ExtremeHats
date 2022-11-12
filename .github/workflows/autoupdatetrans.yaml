@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          fetch-depth: 2
+          fetch-depth: 0
           ref: ${{ github.head_ref }}
       - name: SetupPython
         uses: actions/setup-python@v2
@@ -22,7 +22,7 @@ jobs:
       - name: UpdateTransAndHatData
         run: python update_hat_data.py
       - name: GetAllChangeFiles
-        id: changed-files
+        id: changed-file
         uses: tj-actions/changed-files@v10.1
       - uses: stefanzweifel/git-auto-commit-action@v4
         id: update-transdata
@@ -34,8 +34,8 @@ jobs:
           file: hat/hatData.json
           field: updateComitHash
           value: ${{ steps.update-transdata.outputs.commit_hash }}
-      - name: UpdateTransDataComitHash
-        run: python feat_comit_hash.py ${{ steps.update-transdata.outputs.commit_hash }} ${{ steps.changed-files.outputs.all_changed_files }}
+      - name: UpdateHatDataComitHash
+        run: python feat_comit_hash.py ${{ steps.update-transdata.outputs.commit_hash }} ${{ steps.changed-file.outputs.all_changed_and_modified_files }}
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: AutoComit feat:comit hashs
