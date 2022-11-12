@@ -49,4 +49,6 @@ def main(comit_hash: str, change_files: List[str]) -> None:
 if __name__ == "__main__":
   comit_hash = sys.argv[1]
   change_files = sys.argv[2:]
+  print(f"comit_hash: {comit_hash}")
+  print(f"change_files : {change_files}")
   main(comit_hash, change_files)
