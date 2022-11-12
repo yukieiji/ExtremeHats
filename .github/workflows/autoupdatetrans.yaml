@@ -25,6 +25,7 @@ jobs:
         id: changed-files
         uses: tj-actions/changed-files@v10.1
       - uses: stefanzweifel/git-auto-commit-action@v4
+        id: update-transdata
         with:
           commit_message: AutoComit Update:trans data
       - name: UpdateTransDataComitHash
@@ -32,9 +33,9 @@ jobs:
         with:
           file: hat/hatData.json
           field: updateComitHash
-          value: ${{ steps.auto-commit-action.outputs.commit_hash }}
+          value: ${{ steps.update-transdata.outputs.commit_hash }}
       - name: UpdateTransDataComitHash
-        run: python feat_comit_hash.py ${{ steps.auto-commit-action.outputs.commit_hash }} ${{ steps.changed-files.outputs.all_changed_files }}
+        run: python feat_comit_hash.py ${{ steps.update-transdata.outputs.commit_hash }} ${{ steps.changed-files.outputs.all_changed_files }}
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: AutoComit feat:comit hashs
