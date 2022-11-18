@@ -1,0 +1,11 @@
+{
+  "Author": "Pirohiko",
+  "Name": "AmongUsROM",
+  "FrontFlip": true,
+  "Back": false,
+  "BackFlip": false,
+  "Climb": true,
+  "Bound": true,
+  "Shader": false,
+  "comitHash": ""
+}
