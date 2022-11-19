@@ -1,0 +1,11 @@
+{
+    "Author": "rapu",
+    "Name": "PowerMax",
+    "FrontFlip": false,
+    "Back": false,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": true,
+    "Shader": true,
+    "comitHash": ""
+}
