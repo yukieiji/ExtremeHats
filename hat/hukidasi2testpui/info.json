@@ -1,11 +1,11 @@
 {
-    "Author": "kannagi_drive",
-    "Name": "pui",
-    "FrontFlip": true,
-    "Back": false,
-    "BackFlip": false,
-    "Climb": false,
-    "Bound": false,
-    "Shader": false,
-    "comitHash": ""
+  "Author": "kannagi_drive",
+  "Name": "pui",
+  "FrontFlip": true,
+  "Back": false,
+  "BackFlip": false,
+  "Climb": false,
+  "Bound": false,
+  "Shader": false,
+  "comitHash": "70ed88f66878a4ac4315b50f245a464a5f085579"
 }
