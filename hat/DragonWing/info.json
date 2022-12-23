@@ -1,11 +1,11 @@
 {
-    "Author": "UzomuZo",
-    "Name": "DragonWing",
-    "FrontFlip": false,
-    "Back": true,
-    "BackFlip": false,
-    "Climb": true,
-    "Bound": false,
-    "Shader": true,
-    "comitHash": ""
+  "Author": "UzomuZo",
+  "Name": "DragonWing",
+  "FrontFlip": false,
+  "Back": true,
+  "BackFlip": false,
+  "Climb": true,
+  "Bound": false,
+  "Shader": true,
+  "comitHash": "4cf54db6ff6e8c7b9297d958dbfd1949af1247d1"
 }
