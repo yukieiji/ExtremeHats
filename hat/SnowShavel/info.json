@@ -1,11 +1,11 @@
 {
-    "Author": "YJSiroSakura",
-    "Name": "SnowShavele",
-    "FrontFlip": false,
-    "Back": false,
-    "BackFlip": false,
-    "Climb": true,
-    "Bound": false,
-    "Shader": true,
-    "comitHash": ""
+  "Author": "YJSiroSakura",
+  "Name": "SnowShavele",
+  "FrontFlip": false,
+  "Back": false,
+  "BackFlip": false,
+  "Climb": true,
+  "Bound": false,
+  "Shader": true,
+  "comitHash": "78f14d9eb41d9093d1e9b9130410a2cfbb249ccb"
 }
