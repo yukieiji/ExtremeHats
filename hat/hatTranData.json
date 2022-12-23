@@ -845,7 +845,8 @@
     "Sparrow": {
         "11": "\u30b9\u30ba\u30e1"
     },
-    "Snowman": {
+    "Snowman_": {
+        "0": "Snowman",
         "11": "\u96ea\u3060\u308b\u307e"
     },
     "SnowmanColor": {
@@ -880,6 +881,18 @@
     },
     "WorkHelmet_White": {
         "11": "\u30d8\u30eb\u30e1\u30c3\u30c8(\u767d)"
+    },
+    "DragonWing": {
+        "11": "\u7ffc"
+    },
+    "GhostBehind": {
+        "11": "\u5b88\u8b77\u970a"
+    },
+    "7Cap": {
+        "11": "7\u306e\u5e3d\u5b50 (\u5358\u4f53)"
+    },
+    "7Cap_with_Hair": {
+        "11": "7\u306e\u5e3d\u5b50 (\u9aea\u4ed8\u304d)"
     },
     "kannagi_drive": {
         "11": "\u304b\u3093\u306a\u304e\u30c9\u30e9\u30a4\u30d6\u4f5c"
