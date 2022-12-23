@@ -1,0 +1,11 @@
+{
+    "Author": "UzomuZo",
+    "Name": "GhostBehind",
+    "FrontFlip": false,
+    "Back": true,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": false,
+    "Shader": true,
+    "comitHash": ""
+}
