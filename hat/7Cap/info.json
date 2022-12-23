@@ -1,11 +1,11 @@
 {
   "Author": "UzomuZo",
-  "Name": "Snowman_",
-  "FrontFlip": false,
+  "Name": "7Cap",
+  "FrontFlip": true,
   "Back": false,
   "BackFlip": false,
   "Climb": true,
-  "Bound": true,
+  "Bound": false,
   "Shader": false,
   "comitHash": "4cf54db6ff6e8c7b9297d958dbfd1949af1247d1"
 }
