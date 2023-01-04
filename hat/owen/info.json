@@ -1,11 +1,11 @@
 {
-    "Author": "noraushi",
-    "Name": "king of the world",
-    "FrontFlip": true,
-    "Back": true,
-    "BackFlip": false,
-    "Climb": true,
-    "Bound": true,
-    "Shader": false,
-    "comitHash": ""
+  "Author": "noraushi",
+  "Name": "king of the world",
+  "FrontFlip": true,
+  "Back": true,
+  "BackFlip": false,
+  "Climb": true,
+  "Bound": true,
+  "Shader": false,
+  "comitHash": "cc29db74da7bfedbaa35214620a8afc461e59f73"
 }
