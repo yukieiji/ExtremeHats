@@ -1,11 +1,11 @@
 {
-    "Author": "Seono",
-    "Name": "SONXmasCape",
-    "FrontFlip":false,
-    "Back": false,
-    "BackFlip": false,
-    "Climb": true,
-    "Bound": false,
-    "Shader": false,
-    "comitHash": "" 
+  "Author": "Seono",
+  "Name": "SONXmasCape",
+  "FrontFlip": false,
+  "Back": false,
+  "BackFlip": false,
+  "Climb": true,
+  "Bound": false,
+  "Shader": false,
+  "comitHash": "873b5d87d68b14630369c03c4fb545f0f4ddfd2c"
 }

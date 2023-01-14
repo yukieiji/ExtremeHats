@@ -1,11 +1,11 @@
 {
-    "Author": "Seono",
-    "Name": "SONGosurori",
-    "FrontFlip":false,
-    "Back": true,
-    "BackFlip": false,
-    "Climb": true,
-    "Bound": false,
-    "Shader": true,
-    "comitHash": "" 
+  "Author": "Seono",
+  "Name": "SONGosurori",
+  "FrontFlip": false,
+  "Back": true,
+  "BackFlip": false,
+  "Climb": true,
+  "Bound": false,
+  "Shader": true,
+  "comitHash": "873b5d87d68b14630369c03c4fb545f0f4ddfd2c"
 }
