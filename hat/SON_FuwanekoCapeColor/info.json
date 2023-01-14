@@ -1,0 +1,11 @@
+{
+    "Author": "Seono",
+    "Name": "SONFuwanekoCapeColor",
+    "FrontFlip":false,
+    "Back": false,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": false,
+    "Shader": true,
+    "comitHash": "" 
+}

@@ -1,0 +1,11 @@
+{
+    "Author": "Seono",
+    "Name": "SONGosurori",
+    "FrontFlip":false,
+    "Back": true,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": false,
+    "Shader": true,
+    "comitHash": "" 
+}

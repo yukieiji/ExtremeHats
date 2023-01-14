@@ -1,0 +1,11 @@
+{
+    "Author": "Seono",
+    "Name": "SONMaidMini",
+    "FrontFlip":false,
+    "Back": false,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": false,
+    "Shader": true,
+    "comitHash": "" 
+}

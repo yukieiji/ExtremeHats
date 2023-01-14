@@ -1,0 +1,11 @@
+{
+    "Author": "Seono",
+    "Name": "SONRobeTypeA",
+    "FrontFlip":false,
+    "Back": true,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": false,
+    "Shader": true,
+    "comitHash": "" 
+}

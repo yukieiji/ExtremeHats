@@ -1,0 +1,11 @@
+{
+    "Author": "Seono",
+    "Name": "SONManekiNeko",
+    "FrontFlip":true,
+    "Back": true,
+    "BackFlip": true,
+    "Climb": true,
+    "Bound": false,
+    "Shader": true,
+    "comitHash": "" 
+}

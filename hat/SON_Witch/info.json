@@ -1,0 +1,11 @@
+{
+    "Author": "Seono",
+    "Name": "SONWitch",
+    "FrontFlip":false,
+    "Back": false,
+    "BackFlip": false,
+    "Climb": true,
+    "Bound": false,
+    "Shader": true,
+    "comitHash": "" 
+}
