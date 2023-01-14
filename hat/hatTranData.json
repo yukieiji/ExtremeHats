@@ -1133,5 +1133,67 @@
     },
     "witch": {
         "11": "\u9b54\u5973"
+    },
+    "Seono": {
+        "11": "\u30bb\u30aa\u30ce\u4f5c"
+    },
+    "SONDragon": {
+        "0": "Dragon",
+        "11": "\u30c9\u30e9\u30b4\u30f3"
+    },
+    "SONDragonColor": {
+        "11": "\u30c9\u30e9\u30b4\u30f3Color"
+    },
+    "SONFuwanekoCape": {
+        "11": "\u3075\u308f\u306d\u3053\u30b1\u30fc\u30d7"
+    },
+    "SONFuwanekoCapeColor": {
+        "11": "\u3075\u308f\u306d\u3053\u30b1\u30fc\u30d7Color"
+    },
+    "SONGosurori": {
+        "11": "\u30b4\u30b9\u30ed\u30ea"
+    },
+    "SONHeppokoAngle": {
+        "11": "\u3078\u3063\u307d\u3053\u5929\u4f7f"
+    },
+    "SONHighAngle": {
+        "11": "\u5927\u5929\u4f7f"
+    },
+    "SONKitsune": {
+        "0": "Fox",
+        "11": "\u72d0"
+    },
+    "SONKyubi": {
+        "11": "\u4e5d\u5c3e\u306e\u72d0"
+    },
+    "SONMaidMini": {
+        "11": "\u30e1\u30a4\u30c9\u30df\u30cb"
+    },
+    "SONManekiNeko": {
+        "11": "\u62db\u304d\u732b"
+    },
+    "SONRobeTypeA": {
+        "11": "\u30ed\u30fc\u30d6TypeA"
+    },
+    "SONRobeTypeB": {
+        "11": "\u30ed\u30fc\u30d6TypeB"
+    },
+    "SONShibainu": {
+        "11": "\u67f4\u72ac"
+    },
+    "SONVtuberStyle": {
+        "0": "VtuberStyle",
+        "11": "VtuberStyle"
+    },
+    "SONWitch": {
+        "0": "Witch",
+        "11": "\u9b54\u5973"
+    },
+    "SONWolf": {
+        "0": "Wolf",
+        "11": "\u72fc"
+    },
+    "SONXmasCape": {
+        "11": "\u30af\u30ea\u30b9\u30de\u30b9\u30b1\u30fc\u30d7"
     }
 }
