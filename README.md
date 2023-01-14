@@ -50,3 +50,4 @@ Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこの�
 - 竹饅様
 - クロドル様
 - Nyayuta様
+- セオノ様
