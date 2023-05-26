@@ -1258,5 +1258,77 @@
     },
     "6Dice": {
         "11": "\uff16\u9762\u30c0\u30a4\u30b9"
+    },
+    "nanoZu": {
+        "11": "\u306a\u306e\u65cf"
+    },
+    "nanoZu[na]": {
+        "11": "\u306a\u306e\u65cf\u300c\u306a\u300d"
+    },
+    "nanoZu[ku]": {
+        "11": "\u306a\u306e\u65cf\u300c\u304f\u300d"
+    },
+    "nanoZu[no]": {
+        "11": "\u306a\u306e\u65cf\u300c\u306e\u300d"
+    },
+    "nanoZu[zo]": {
+        "11": "\u306a\u306e\u65cf\u300c\u305e\u300d"
+    },
+    "nanoZu[Ren]": {
+        "11": "\u306a\u306e\u65cf\u300c\u8a8d\u300d"
+    },
+    "nanoZu[Zhi]": {
+        "11": "\u306a\u306e\u65cf\u300c\u77e5\u300d"
+    },
+    "nanoZu[shi]": {
+        "11": "\u306a\u306e\u65cf\u300c\u3057\u300d"
+    },
+    "nanoZu[te]": {
+        "11": "\u306a\u306e\u65cf\u300c\u3066\u300d"
+    },
+    "nanoZu[Jian]": {
+        "11": "\u306a\u306e\u65cf\u300c\u5efa\u300d"
+    },
+    "nanoZu[She]": {
+        "11": "\u306a\u306e\u65cf\u300c\u8a2d\u300d"
+    },
+    "nanoZu[Fan]": {
+        "11": "\u306a\u306e\u65cf\u300c\u53cd\u300d"
+    },
+    "nanoZu[Dui]": {
+        "11": "\u306a\u306e\u65cf\u300c\u5bfe\u300d"
+    },
+    "nanoZu[Chu]": {
+        "11": "\u306a\u306e\u65cf\u300c\u51fa\u300d"
+    },
+    "nanoZu[He]": {
+        "11": "\u306a\u306e\u65cf\u300c\u8377\u300d"
+    },
+    "nanoZu[yo]": {
+        "11": "\u306a\u306e\u65cf\u300c\u3088\u300d"
+    },
+    "nanoZu[BangYinki]": {
+        "11": "\u306a\u306e\u65cf\u300c\u68d2\u5f15\u304d\u300d"
+    },
+    "nanoZu[su]": {
+        "11": "\u306a\u306e\u65cf\u300c\u3059\u300d"
+    },
+    "nanoZu[ru]": {
+        "11": "\u306a\u306e\u65cf\u300c\u308b\u300d"
+    },
+    "nanoZu[JianSheFanDui]": {
+        "11": "\u306a\u306e\u65cf\u300c\u5efa\u8a2d\u53cd\u5bfe\u300d"
+    },
+    "nanoZu[ChuHeyo!]": {
+        "11": "\u306a\u306e\u65cf\u300c\u51fa\u8377\u3088\u30fc\uff01\u300d"
+    },
+    "nanoZu[susuruuuu]": {
+        "11": "\u306a\u306e\u65cf\u300c\u3059\u3059\u308b\u3046\u3046\u3046\u300d"
+    },
+    "WeiZhangnana(MaoZiari)": {
+        "11": "\u5c3e\u5f35\u306a\u306a\uff08\u5e3d\u5b50\u3042\u308a\uff09"
+    },
+    "WeiZhangnana(MaoZinashi)": {
+        "11": "\u5c3e\u5f35\u306a\u306a\uff08\u5e3d\u5b50\u306a\u3057\uff09"
     }
 }
