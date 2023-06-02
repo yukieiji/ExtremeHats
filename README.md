@@ -67,3 +67,4 @@ Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこの�
 - クロドル様
 - Nyayuta様
 - セオノ様
+- すこれもん様
