@@ -1407,5 +1407,37 @@
     },
     "HuLangaki_Faari": {
         "11": "\u80e1\u72fc\u3042\u304d(\u9aea\u3042\u308a)"
+    },
+    "sabanecko": {
+        "11": "\u3055\u3070\u306d\u3053\u4f5c"
+    },
+    "control": {
+        "11": "\u6307\u4ee4"
+    },
+    "Devil": {
+        "11": "\u60aa\u9b54"
+    },
+    "eyes": {
+        "11": "\u8996\u7dda"
+    },
+    "magician": {
+        "11": "\u30de\u30b8\u30b7\u30e3\u30f3"
+    },
+    "parasiteCREW": {
+        "11": "\u5bc4\u751f"
+    },
+    "Rumba": {
+        "11": "\u30eb\u30f3\u30d0"
+    },
+    "Unintelligible": {
+        "11": "\u7406\u89e3\u4e0d\u80fd"
+    },
+    "Nigelfuan": {
+        "0": "NigelFan",
+        "11": "Nigel\u30d5\u30a1\u30f3"
+    },
+    "DongWuXueZhedeTanJianJia": {
+        "0": "Zoologist and Adventurer",
+        "11": "\u52d5\u7269\u5b66\u8005\u3067\u63a2\u691c\u5bb6"
     }
 }
