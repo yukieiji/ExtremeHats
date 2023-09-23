@@ -1439,5 +1439,65 @@
     "DongWuXueZhedeTanJianJia": {
         "0": "Zoologist and Adventurer",
         "11": "\u52d5\u7269\u5b66\u8005\u3067\u63a2\u691c\u5bb6"
+    },
+    "pb_NIPPON": {
+        "0": "Japan",
+        "11": "\u65e5\u672c"
+    },
+    "pb_igirisu": {
+        "0": "UK",
+        "11": "\u30a4\u30ae\u30ea\u30b9"
+    },
+    "pb_amerika": {
+        "0": "USA",
+        "11": "\u30a2\u30e1\u30ea\u30ab"
+    },
+    "pb_furansu": {
+        "0": "France",
+        "11": "\u30d5\u30e9\u30f3\u30b9"
+    },
+    "pb_doitsu": {
+        "0": "Germany",
+        "11": "\u30c9\u30a4\u30c4"
+    },
+    "pb_itaria": {
+        "0": "Italy",
+        "11": "\u30a4\u30bf\u30ea\u30a2"
+    },
+    "pb_roshia": {
+        "0": "Russia",
+        "11": "\u30ed\u30b7\u30a2"
+    },
+    "pb_ZhongGuo": {
+        "0": "China",
+        "11": "\u4e2d\u56fd"
+    },
+    "pb_kanada": {
+        "0": "Canada",
+        "11": "\u30ab\u30ca\u30c0"
+    },
+    "pb_osutoraria": {
+        "0": "Australia",
+        "11": "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2"
+    },
+    "pb_niyujirando": {
+        "0": "New Zealand",
+        "11": "\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9"
+    },
+    "pb_Nanafurika": {
+        "0": "South Africa",
+        "11": "\u5357\u30a2\u30d5\u30ea\u30ab"
+    },
+    "pb_indo": {
+        "0": "India",
+        "11": "\u30a4\u30f3\u30c9"
+    },
+    "pb_burajiru": {
+        "0": "Brazil",
+        "11": "\u30d6\u30e9\u30b8\u30eb"
+    },
+    "pb_HanGuo": {
+        "0": "South Korea",
+        "11": "\u97d3\u56fd"
     }
 }
