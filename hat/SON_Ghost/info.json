@@ -1,0 +1,10 @@
+{
+  "Bound": false,
+  "Shader": false,
+  "Climb": true,
+  "FrontFlip": false,
+  "Back": true,
+  "BackFlip": false,
+  "Name": "SON_Ghost",
+  "Author": "seono"
+}
