@@ -1527,5 +1527,17 @@
     "pb_HanGuo": {
         "0": "South Korea",
         "11": "\u97d3\u56fd"
+    },
+    "animaru_kiui": {
+        "0": "Kiwi",
+        "11": "\u30ad\u30fc\u30a6\u30a3"
+    },
+    "omunaito": {
+        "0": "Omanyte",
+        "11": "\u30aa\u30e0\u30ca\u30a4\u30c8"
+    },
+    "animaru_tonakai": {
+        "0": "Reindeer",
+        "11": "\u30c8\u30ca\u30ab\u30a4"
     }
 }
