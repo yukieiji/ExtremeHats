@@ -1539,5 +1539,9 @@
     "animaru_tonakai": {
         "0": "Reindeer",
         "11": "\u30c8\u30ca\u30ab\u30a4"
+    },
+    "nekonaika": {
+        "0": "Cattlefish",
+        "11": "\u30cd\u30b3\u306a\u30a4\u30ab"
     }
 }
