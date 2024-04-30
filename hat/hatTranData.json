@@ -1543,5 +1543,9 @@
     "nekonaika": {
         "0": "Cattlefish",
         "11": "\u30cd\u30b3\u306a\u30a4\u30ab"
+    },
+    "Taisho_Roman": {
+        "0": "Taisho_Roman",
+        "11": "\u5927\u6b63\u30ed\u30de\u30f3"
     }
 }
