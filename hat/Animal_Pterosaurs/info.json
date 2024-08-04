@@ -1,0 +1,10 @@
+{
+  "Bound": false,
+  "Shader": true,
+  "Climb": true,
+  "FrontFlip": false,
+  "Back": true,
+  "BackFlip": false,
+  "Name": "Animal_Pterosaurs",
+  "Author": "Nigelfuan"
+}
