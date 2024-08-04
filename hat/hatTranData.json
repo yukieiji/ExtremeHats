@@ -1547,5 +1547,9 @@
     "Taisho_Roman": {
         "0": "Taisho_Roman",
         "11": "\u5927\u6b63\u30ed\u30de\u30f3"
+    },
+    "Animal_Pterosaurs": {
+        "0": "Pterosaurs",
+        "11": "\u7ffc\u7adc"
     }
 }
